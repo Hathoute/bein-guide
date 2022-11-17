@@ -6,10 +6,12 @@ A python3 script that scraps BEIN Sports guide page and outputs an XMLTV file.
 0. Make sure you have python3 and pip3 (if not, just edit **routine.sh** with your commands)
 1. Clone this repository
 
-`https://github.com/Hathoute/bein-guide`
+`git clone https://github.com/Hathoute/bein-guide`
+
 2. Make **routine.sh** executable
 
 `chmod +x routine.sh`
+
 3. Run **routine.sh**
 
 You might want to edit the bash script to customize it
